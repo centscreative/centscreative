@@ -1,0 +1,168 @@
+{
+  "content": {
+    "name": "CENTSCREATIVE",
+    "initials": "CC",
+    "role": "AI UGC SPECIALIST",
+    "availability": "Available for freelance & partnerships",
+    "tagline": "AI-powered UGC that stops the scroll and drives sales.",
+    "intro": "UGC-style video ads and hooks made with AI. Fast tests, clean edits, no on-set filming.",
+    "email": "sumayodv22@gmail.com",
+    "location": "Philippines",
+    "whatsapp": "639565393550",
+    "instagram": "https://instagram.com/yxvngc3nts",
+    "linkedin": "https://www.linkedin.com/in/vincent-sumayod-a88a3a296/",
+    "calendarUrl": "",
+    "bio": "I create AI-generated UGC video ads, hooks, and scripts for short-form platforms. My background is in US healthcare customer service and chat-based sales, so I write for clear communication, persuasion, and client retention. I am building my portfolio with concept and sample work, and I am open to paid trial projects.",
+    "aboutPhotoUrl": "",
+    "resumeUrl": "Cent%27s%20Resume.pdf",
+    "testimonialsVisible": false,
+    "tools": [
+      "Veo 3.1",
+      "Kling",
+      "Seedance 2.5",
+      "Minimax HD",
+      "Omniflash",
+      "Google Flow",
+      "Higgsfield",
+      "Weavy AI",
+      "Maxfusion",
+      "NewFace AI",
+      "Grok",
+      "Claude",
+      "ChatGPT",
+      "Gemini",
+      "CapCut"
+    ],
+    "skills": [
+      "Scriptwriting",
+      "Hook Creation",
+      "AI Video Generation",
+      "Prompting",
+      "Video Editing",
+      "Short-Form Content",
+      "Client Communication"
+    ],
+    "experience": [
+      {
+        "year": "Present",
+        "title": "AI UGC Portfolio (self-directed)",
+        "detail": "Concept and sample UGC-style ads and hooks built with AI video tools and edited in CapCut."
+      },
+      {
+        "year": "6 months",
+        "title": "Chat Specialist, Creator Management",
+        "detail": "Managed chat engagement for 3 to 5 creator accounts. Estimated $2,500 to $4,000 total revenue (client data no longer available)."
+      },
+      {
+        "year": "Apr – Jul 2025",
+        "title": "Prior Authorization Specialist (Seasonal), Access Healthcare",
+        "detail": "Handled prior authorization requests and denials using the EPIC EHR system."
+      },
+      {
+        "year": "Oct 2023 – Jan 2025",
+        "title": "Healthcare Customer Service Rep, Everise Philippines",
+        "detail": "Medicare Advantage member support. Top 2 agent in CSAT, 2024."
+      },
+      {
+        "year": "Jun 2022 – Jun 2023",
+        "title": "Healthcare Customer Service Rep, Teleperformance",
+        "detail": "Medicare Advantage and financial account support for US members."
+      }
+    ],
+    "education": [
+      {
+        "year": "",
+        "title": "AB Psychology (1st year completed)",
+        "detail": "Arellano University, Jose Abad Santos"
+      }
+    ],
+    "certs": [
+      {
+        "year": "",
+        "title": "HIPAA certified",
+        "detail": "Healthcare customer service"
+      }
+    ],
+    "services": [
+      {
+        "title": "Single UGC video",
+        "text": "One UGC-style ad from script to final edit, ready for TikTok, Reels, Shorts, or Meta."
+      },
+      {
+        "title": "Hook pack",
+        "text": "One core video with 5 to 10 alternate openers for A/B testing."
+      },
+      {
+        "title": "Monthly content",
+        "text": "A fixed number of videos each month with a regular delivery schedule."
+      }
+    ],
+    "notIncluded": "Not included: media buying, ad account management, web development, and filming real people on set.",
+    "process": [
+      {
+        "title": "Discovery call",
+        "text": "We cover your product, audience, and goals."
+      },
+      {
+        "title": "Concept and hooks",
+        "text": "You approve angles and scripts before production."
+      },
+      {
+        "title": "Production",
+        "text": "AI video, voice, and CapCut editing."
+      },
+      {
+        "title": "Review",
+        "text": "One to two revision rounds, agreed in writing."
+      },
+      {
+        "title": "Delivery",
+        "text": "Final files in platform-ready formats."
+      },
+      {
+        "title": "Test and iterate",
+        "text": "We review results and plan the next batch."
+      }
+    ],
+    "formEndpoint": "https://formspree.io/f/xeaejvnk"
+  },
+  "items": [
+    {
+      "id": "w1",
+      "title": "AI UGC Mung Bean Cleansing Foam Product Test",
+      "description": "Concept UGC-style product video for a skincare cleanser, made as a portfolio sample.",
+      "niche": "Skincare",
+      "platform": "TikTok",
+      "type": "concept",
+      "featured": true,
+      "hidden": false,
+      "order": 0,
+      "videoUrl": "",
+      "thumbnailUrl": "",
+      "tools": [
+        "Claude",
+        "ChatGPT",
+        "CapCut",
+        "Veo 3.1",
+        "Google Flow"
+      ]
+    },
+    {
+      "id": "template",
+      "title": "COPY ME: your video title",
+      "description": "One or two lines about this video.",
+      "niche": "Skincare",
+      "platform": "TikTok",
+      "type": "concept",
+      "featured": false,
+      "hidden": true,
+      "order": 99,
+      "videoUrl": "media/your-video.mp4",
+      "thumbnailUrl": "",
+      "tools": [
+        "Veo 3.1",
+        "CapCut"
+      ]
+    }
+  ]
+}
